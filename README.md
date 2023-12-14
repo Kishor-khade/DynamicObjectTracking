@@ -4,19 +4,19 @@
 ### Steps Involved
 <hr>
 
-- Extract Background in Video Input :
+- Extract Background in Video Input 
 
-- Processing a Frame :
+- Processing a Frame 
 
-- Background Removal :
+- Background Removal
        
-- Blurring :
+- Blurring 
      
-- Binarizing the image - Thresholding : 
+- Binarizing the image - Thresholding 
         
-- Countour and Boundary Boxes :
+- Countour and Boundary Boxes 
         
-- Compiling frames together for processing video :
+- Compiling frames together for processing video 
 
 ### Applications
 <hr>
